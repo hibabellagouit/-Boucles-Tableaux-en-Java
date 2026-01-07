@@ -39,12 +39,4 @@
 
 ---
 
-##Auteur
 
-**Nom :** JARDI Siham
-
-**Cours :** Fondamentaux et Concepts Avancés de la Programmation Java
-
-**Date :** Novembre 2025
-
-**Encadré par :** Pr.Mohamed LACHGHAR
