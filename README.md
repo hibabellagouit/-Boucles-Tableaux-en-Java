@@ -204,5 +204,9 @@ Ces exercices permettent de renforcer les bases de l’algorithmique impérative
 
 Ils constituent une base solide pour aborder des structures de données plus avancées par la suite.
 
+<img width="1366" height="728" alt="Boucles   Tableaux en Java – Harmonic java 08_01_2026 13_29_14" src="https://github.com/user-attachments/assets/0c6a4db2-851d-4b88-90fd-d8e58a796548" />
+<img width="1366" height="728" alt="Boucles   Tableaux en Java – Harmonic java 08_01_2026 13_27_59" src="https://github.com/user-attachments/assets/2b6b6069-e403-4cce-a16d-46c26e9202e0" />
 
+<img width="1366" height="728" alt="Boucles   Tableaux en Java – Harmonic java 08_01_2026 13_27_39" src="https://github.com/user-attachments/assets/864c6a8f-621f-4158-afe5-f48cfc0f3571" />
+<img width="1366" height="728" alt="Boucles   Tableaux en Java – Harmonic java 08_01_2026 13_27_06" src="https://github.com/user-attachments/assets/34244b5b-cacc-4254-8fcf-f22e985ccaf0" />
 
