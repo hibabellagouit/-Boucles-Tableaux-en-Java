@@ -205,12 +205,4 @@ Ces exercices permettent de renforcer les bases de l’algorithmique impérative
 Ils constituent une base solide pour aborder des structures de données plus avancées par la suite.
 
 
-![WhatsApp Image 2026-01-07 at 23 35 09](https://github.com/user-attachments/assets/7c753c40-8538-4751-98ca-15b76097effe)
-![WhatsApp Image 2026-01-07 at 23 35 08](https://github.com/user-attachments/assets/f215f96b-8576-4ef9-bdaa-1f4b199c9818)
-![WhatsApp Image 2026-01-07 at 23 35 08 (1)](https://github.com/user-attachments/assets/34171196-b029-4dc0-835c-15d3376c3a99)
-![WhatsApp Image 2026-01-07 at 23 35 08 (2)](https://github.com/user-attachments/assets/7c55962f-1d55-4384-af4c-85206b933a05)
-
-
----
-
 
